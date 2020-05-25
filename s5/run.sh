@@ -11,7 +11,7 @@ data_url=www.openslr.org/resources/12
 lm_url=www.openslr.org/resources/11
 mfccdir=mfcc
 stage=1
-nj=6
+nj=2
 
 . ./cmd.sh
 . ./path.sh
